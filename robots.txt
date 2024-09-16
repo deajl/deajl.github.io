@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://deajl.github.io/WbW/sitemap.WbW.gz
